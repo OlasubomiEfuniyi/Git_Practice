@@ -1,0 +1,5 @@
+#Ignore all object files
+*.o
+#Ignore all .doc files in Git_Practice/ but not in its subdirectories
+*.doc
+!**/*.doc
